@@ -1,23 +1,30 @@
-Hi, I'm Swopnil Biswas
-💻 Aspiring Software Engineer || Cybersecurity Enthusiast || Problem Solver from India
+<h1 align="center">Hi 👋, I'm Swopnil Biswas</h1>
+<h3 align="center">💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🧩 Problem Solver from India</h3>
 
-I'm a passionate Electronics and Communication Engineering student at Jalpaiguri Government Engineering College (JGEC) with a strong interest in software development, data structures and algorithms, and cybersecurity. I enjoy building practical applications, exploring new technologies, and solving real-world problems through code.
+<p align="center">
+  I'm a passionate Electronics and Communication Engineering student at
+  <b>Jalpaiguri Government Engineering College (JGEC)</b> with a strong interest in
+  software development, Data Structures & Algorithms, and cybersecurity.
+</p>
 
-My technical skill set includes C, C++, Python, SQL, HTML, and CSS, along with foundational knowledge of Linux, networking, and cybersecurity concepts. I continuously work on improving my problem-solving abilities through coding challenges and hands-on projects while expanding my knowledge in software engineering and security domains.
+<p align="center">
+  I enjoy building practical applications, exploring new technologies, and solving real-world problems through code.
+</p>
 
-I am always eager to learn, collaborate, and contribute to impactful projects that help me grow both technically and professionally.
+---
 
-📧 Email: [swopnilbiswas437@gmail.com](mailto:swopnilbiswas437@gmail.com)
+# 💫 About Me
 
+* 🎓 **Student at:** Jalpaiguri Government Engineering College (JGEC)
+* 💻 **Aspiring Software Engineer** | Cybersecurity Enthusiast
+* 🔭 **Currently Working On:** Personal projects, coding challenges, and improving problem-solving skills through DSA
+* 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Linux, Networking, and Cybersecurity Fundamentals
+* 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
+* 💬 **Ask Me About:** C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
+* ⚡ **Fun Fact:** I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
 
-# 💫 About Me:
-🎓 Student at: Jalpaiguri Government Engineering College (JGEC)
-💻 Aspiring Software Engineer | Cybersecurity Enthusiast
-🔭 Currently Working On: Personal projects, coding challenges, and improving problem-solving skills through DSA
-🌱 Currently Learning: Data Structures & Algorithms in C++, Python, Linux, Networking, and Cybersecurity Fundamentals
-👯 Looking to Collaborate On: Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
-💬 Ask Me About: C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
-⚡ Fun Fact: I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
+📫 **Reach me at:** **[swopnilbiswas437@gmail.com](mailto:swopnilbiswas437@gmail.com)**
+
 
 
 ## 🌐 Socials:
