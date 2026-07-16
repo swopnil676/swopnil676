@@ -23,7 +23,7 @@
 * 💬 **Ask Me About:** C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
 * ⚡ **Fun Fact:** I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
 
-📫 **Reach me at:** **[swopnilbiswas437@gmail.com](mailto:swopnilbiswas437@gmail.com)**
+📫 **Reach me at :** **[swopnilbiswas437@gmail.com](mailto:swopnilbiswas437@gmail.com)**
 
 ---
 
