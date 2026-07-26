@@ -33,7 +33,7 @@ A collection of practical management system projects built using Python, focusin
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 📚 Student Management System
 
@@ -49,7 +49,7 @@ A Python-based system for managing student records and information.
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🏦 Bank Management System
 
@@ -65,7 +65,7 @@ A Python-based banking system for managing accounts, transactions, and customer 
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🏥 Hospital Management System
 
@@ -76,6 +76,22 @@ A Python-based system for managing patient records with both GUI and CLI support
 <br>
 
 <a href="YOUR_HOSPITAL_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="25%" align="center">
+
+### 🎟️ Ticket Booking System
+
+A Python-based booking system for managing movies, seats, bookings, cancellations, and customer records.
+
+**Python • CSV • OOP**
+
+<br>
+
+<a href="YOUR_TICKET_REPO_LINK">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
