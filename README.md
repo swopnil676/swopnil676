@@ -43,7 +43,7 @@ A Python-based system for managing student records and information.
 
 <br>
 
-<a href="YOUR_STUDENT_REPO_LINK">
+<a href="https://github.com/swopnil676/STUDENT-MANAGEMENT-SYSTEM">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -59,7 +59,7 @@ A Python-based banking system for managing accounts, transactions, and customer 
 
 <br>
 
-<a href="YOUR_BANK_REPO_LINK">
+<a href="https://github.com/swopnil676/BANK-MANAGEMENT-SYSTEM">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -75,7 +75,7 @@ A Python-based system for managing patient records with both GUI and CLI support
 
 <br>
 
-<a href="YOUR_HOSPITAL_REPO_LINK">
+<a href="https://github.com/swopnil676/HOSPITAL-MANAGEMENT-SYSTEM">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -91,7 +91,7 @@ A Python-based booking system for managing movies, seats, bookings, cancellation
 
 <br>
 
-<a href="YOUR_TICKET_REPO_LINK">
+<a href="https://github.com/swopnil676/MOVIE-TICKET-BOOKING-SYSTEM">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
