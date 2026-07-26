@@ -27,6 +27,67 @@
 
 ---
 
+## 🗂️ Management Systems
+
+A collection of practical management system projects built using Python, focusing on **OOP, file handling, data management, modular programming, and real-world application development.**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📚 Student Management System
+
+A Python-based system for managing student records and information.
+
+**Python • OOP • File Handling**
+
+<br>
+
+<a href="YOUR_STUDENT_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏦 Bank Management System
+
+A Python-based banking system for managing accounts, transactions, and customer records.
+
+**Python • CSV • OOP**
+
+<br>
+
+<a href="YOUR_BANK_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏥 Hospital Management System
+
+A Python-based system for managing patient records with both GUI and CLI support.
+
+**Python • Tkinter • CSV • OOP**
+
+<br>
+
+<a href="YOUR_HOSPITAL_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+> 🚀 **More management systems and practical projects will be added as I continue learning and building.**
+
+
+---
+
 ## 🎯 Career Objective
 
 To master advanced Python programming and software engineering by building practical projects, exploring Python internals, and implementing scalable, high-performance solutions. This repository reflects my commitment to continuous learning and professional growth as a Python developer.
