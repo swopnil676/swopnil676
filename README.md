@@ -99,6 +99,22 @@ A Python-based booking system for managing movies, seats, bookings, cancellation
 </tr>
 </table>
 
+### 🚗 Car Rental Management System
+
+A Python-based system for managing cars, customers, rentals, returns, and vehicle availability.
+
+**Python • CSV • OOP**
+
+<br>
+
+<a href="https://github.com/swopnil676/CAR-RENTAL-MANAGEMENT-SYSTEM">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
 > 🚀 **More management systems and practical projects will be added as I continue learning and building.**
 
 
