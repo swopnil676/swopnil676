@@ -132,17 +132,20 @@ To master advanced Python programming and software engineering by building pract
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://instagram.com/swopnil_biswas">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/swopnil_biswas" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/swopnilbiswas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swopnilbiswas/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/SwopnilBiswas">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/SwopnilBiswas" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="35" height="35" alt="X"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:swopnilbiswas437@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Email"/>
   </a>
 </p>
 
