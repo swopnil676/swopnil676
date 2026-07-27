@@ -95,9 +95,9 @@ A Python-based booking system for managing movies, seats, bookings, cancellation
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-</tr>
-</table>
+</td> </tr>
+
+<tr> <td width="25%" align="center">
 
 ### 🚗 Car Rental Management System
 
