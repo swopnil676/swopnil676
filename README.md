@@ -133,22 +133,21 @@ To master advanced Python programming and software engineering by building pract
 
 <p align="left">
   <a href="https://instagram.com/swopnil_biswas" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" height="35" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swopnilbiswas/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/SwopnilBiswas" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="35" height="35" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:swopnilbiswas437@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Gmail"/>
   </a>
 </p>
-
 
 ---
 
