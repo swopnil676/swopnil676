@@ -128,6 +128,25 @@ To master advanced Python programming and software engineering by building pract
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swopnil_biswas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swopnilbiswas/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SwopnilBiswas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swopnilbiswas437@gmail.com) 
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://instagram.com/swopnil_biswas">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" height="35" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swopnilbiswas/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/SwopnilBiswas">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="35" height="35" alt="X">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:swopnilbiswas437@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35" alt="Email">
+  </a>
+</p>
 
 ---
 
