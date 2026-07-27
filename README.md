@@ -133,7 +133,7 @@ To master advanced Python programming and software engineering by building pract
 
 <p align="left">
   <a href="https://instagram.com/swopnil_biswas" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/>
+    <img src="https://icons8.com/icon/ZRiAFreol5mE/instagram" width="32" height="32" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swopnilbiswas/" target="_blank">
