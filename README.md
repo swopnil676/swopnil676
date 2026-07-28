@@ -131,7 +131,7 @@ My **Data Structures and Algorithms learning journey in C++**, featuring problem
 
 ### 💻 DSA with C++
 
-A collection of DSA problems and solutions organised topic-wise while learning and practising C++.
+A collection of DSA problems and solutions organised topic-wise while learning and practicing C++.
 
 **C++ • Data Structures • Algorithms • Problem Solving**
 
