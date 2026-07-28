@@ -117,6 +117,35 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 > 🚀 **More management systems and practical projects will be added as I continue learning and building.**
 
+---
+
+---
+
+## 🧠 DSA with C++
+
+My **Data Structures and Algorithms learning journey in C++**, featuring problems and solutions that I solve while practicing and improving my problem-solving skills.
+
+<table>
+<tr>
+<td width="100%" align="center">
+
+### 💻 DSA with C++
+
+A collection of DSA problems and solutions organised topic-wise while learning and practising C++.
+
+**C++ • Data Structures • Algorithms • Problem Solving**
+
+<br>
+
+<a href="YOUR_DSA_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+> 💡 **Learning → Practising → Solving → Improving**
 
 ---
 
