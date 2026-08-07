@@ -115,6 +115,24 @@ A Python-based system for managing student results, report cards, and class rank
 
 <td width="25%" align="center">
 
+<td width="50%" align="center">
+
+### 📋 Attendance Management System
+
+A Python-based CLI application for managing student attendance with JSON-based persistent storage.
+
+**Python • JSON • OOP • CLI**
+
+<br>
+
+<a href="https://github.com/swopnil676/ATTENDENCE-MANAGEMENT-SYSTEM">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
 ### 🚗 Car Rental Management System
 
 A Python-based system for managing cars, customers, rentals, returns, and vehicle availability.
