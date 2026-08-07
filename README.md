@@ -95,7 +95,9 @@ A Python-based booking system for managing movies, seats, bookings, cancellation
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td> 
+</td></tr>
+
+</tr>
 <td width="25%" align="center">
 
 ### 📊 Student Result Management System
@@ -110,9 +112,8 @@ A Python-based system for managing student results, report cards, and class rank
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td></tr>
+</td>
 
-</tr>
 <td width="25%" align="center">
 
 ### 📋 Attendance Management System
