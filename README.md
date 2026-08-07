@@ -136,6 +136,7 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 ---
 
 ---
+## 🌟 Featured Repositories
 
 <table>
 <tr>
@@ -147,6 +148,8 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems, coding challenges, and core algorithmic concepts.
 
 **C++ • STL • Algorithms**
+
+> 💡 **Learn → Practice → Solve → Improve**
 
 <br>
 
