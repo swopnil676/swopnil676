@@ -137,31 +137,43 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 ---
 
-## 🧠 DSA with C++
-
-My **Data Structures and Algorithms learning journey in C++**, featuring problems and solutions that I solve while practicing and improving my problem-solving skills.
-
 <table>
 <tr>
-<td width="100%" align="center">
 
-### 💻 DSA with C++
+<td width="50%" align="center">
 
-A collection of DSA problems and solutions organised topic-wise while learning and practicing C++.
+## 💻 DSA in C++
 
-**C++ • Data Structures • Algorithms • Problem Solving**
+A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems, coding challenges, and core algorithmic concepts.
+
+**C++ • STL • Algorithms**
 
 <br>
 
-<a href="https://github.com/swopnil676/Data-Structures-and-Algorithms-in-CPP">
+<a href="YOUR_DSA_REPO_LINK">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
+<td width="50%" align="center">
+
+## 😊 Sentiment Analysis CLI
+
+A Python-based CLI application for analyzing text sentiment using NLTK's VADER with persistent JSON history.
+
+**Python • NLTK • JSON • OOP**
+
+<br>
+
+<a href="YOUR_SENTIMENT_REPO_LINK">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
 </tr>
 </table>
-
-> 💡 **Learning → Practising → Solving → Improving**
 
 ---
 
