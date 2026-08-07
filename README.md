@@ -18,7 +18,7 @@
 * 🎓 **Student at:** Jalpaiguri Government Engineering College (JGEC)
 * 💻 **Aspiring Software Engineer** | Cybersecurity Enthusiast
 * 🔭 **Currently Working On:** Personal projects, coding challenges, and improving problem-solving skills through DSA
-* 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Linux, Networking, and Cybersecurity Fundamentals
+* 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Artificial Intelligence & Machine Learning (AI/ML), Linux, and Computer Networking.
 * 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
 * 💬 **Ask Me About:** C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
 * ⚡ **Fun Fact:** I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
