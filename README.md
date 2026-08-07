@@ -135,7 +135,6 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 ---
 
----
 ## 🌟 Featured Repositories
 
 <table>
@@ -169,7 +168,7 @@ A Python-based CLI application for analyzing text sentiment using NLTK's VADER w
 
 <br>
 
-<a href="YOUR_SENTIMENT_REPO_LINK">
+<a href="https://github.com/swopnil676/AI-POWERED-SENTIMENT-ANALYSIS-TOOL">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
