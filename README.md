@@ -115,8 +115,6 @@ A Python-based system for managing student results, report cards, and class rank
 
 <td width="25%" align="center">
 
-<td width="50%" align="center">
-
 ### 📋 Attendance Management System
 
 A Python-based CLI application for managing student attendance with JSON-based persistent storage.
@@ -131,7 +129,7 @@ A Python-based CLI application for managing student attendance with JSON-based p
 
 </td>
 
-</tr>
+<td width="50%" align="center">
 
 ### 🚗 Car Rental Management System
 
