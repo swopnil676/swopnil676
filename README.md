@@ -107,7 +107,7 @@ A Python-based system for managing student results, report cards, and class rank
 
 <br>
 
-<a href="YOUR_STUDENT_RESULT_REPO_LINK">
+<a href="https://github.com/swopnil676/STUDENT-RESULT-MANAGEMENT-SYSTEM">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
