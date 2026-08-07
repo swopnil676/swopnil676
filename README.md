@@ -152,7 +152,7 @@ A collection of Data Structures & Algorithms solutions in C++, covering LeetCode
 
 <br>
 
-<a href="YOUR_DSA_REPO_LINK">
+<a href="https://github.com/swopnil676/Data-Structures-and-Algorithms-in-CPP">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
