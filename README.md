@@ -18,7 +18,7 @@
 * 🎓 **Student at:** Jalpaiguri Government Engineering College (JGEC)
 * 💻 **Aspiring Software Engineer** | Cybersecurity Enthusiast
 * 🔭 **Currently Working On:** Personal projects, coding challenges, and improving problem-solving skills through DSA
-* 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Artificial Intelligence & Machine Learning (AI/ML), Linux, and Computer Networking.
+* 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Artificial Intelligence & Machine Learning (AI/ML), Gen AI and Agentic AI.
 * 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
 * 💬 **Ask Me About:** C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
 * ⚡ **Fun Fact:** I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
@@ -95,9 +95,8 @@ A Python-based booking system for managing movies, seats, bookings, cancellation
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td> </tr>
-
-<tr> <td width="25%" align="center">
+</td> 
+<td width="25%" align="center">
 
 ### 📊 Student Result Management System
 
@@ -145,6 +144,7 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 </td>
 </tr>
+
 </table>
 
 > 🚀 **More management systems and practical projects will be added as I continue learning and building.**
