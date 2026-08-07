@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swopnil Biswas</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🧩 Problem Solver from India</h3>
+<h3 align="center"> 💻 Aspiring Software Engineer | 🤖 Building Skills in AI/ML | 🧩 DSA & Problem Solving | 🇮🇳 </h3>
 
 <p align="center">
   I'm a passionate Electronics and Communication Engineering student at
