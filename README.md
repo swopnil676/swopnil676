@@ -132,6 +132,22 @@ A Python-based CLI application for managing student attendance with JSON-based p
 
 <td width="50%" align="center">
 
+### 📚 Library Management System
+
+A Python-based system for managing books, searches, issue/return operations, and library records using CSV storage.
+
+**Python • CSV • File Handling • CLI**
+
+<br>
+
+<a href="https://github.com/swopnil676/LIBRARY-MANAGEMENT-SYSTEM">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
 ### 🚗 Car Rental Management System
 
 A Python-based system for managing cars, customers, rentals, returns, and vehicle availability.
