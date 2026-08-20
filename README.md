@@ -272,8 +272,8 @@ To master advanced Python programming and software engineering by building pract
 
 <div align="center">
   <img
-    src="https://gh-heat.anishroy.com/api/swopnil676/svg?theme=blue&darkMode=true"
-    alt="Swopnil Biswas GitHub Contribution Graph"
+    src="https://github.pumbas.net/api/contributions/swopnil676"
+    alt="Swopnil's Contribution Graph"
     width="900"
   />
 </div>
