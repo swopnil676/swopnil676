@@ -169,12 +169,12 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 ---
 
+### 💻 DSA in C++
+
 <table>
 <tr>
 
-<td width="50%" align="center">
-
-### 💻 DSA in C++
+<td width="30%" align="center">
 
 A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems, coding challenges, and core algorithmic concepts.
 
@@ -206,7 +206,7 @@ A collection of Data Structures & Algorithms solutions in C++, covering LeetCode
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
 ### 😊 Sentiment Analysis CLI
 
