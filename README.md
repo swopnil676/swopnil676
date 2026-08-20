@@ -179,7 +179,7 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 A collection of DSA problems and solutions in C++, focused on LeetCode, algorithms, and problem-solving.
 
 **C++ • STL • Algorithms**
-💡 **Learn → Practice → Solve → Improve**
+>💡 **Learn → Practice → Solve → Improve**
 
 <br>
 
