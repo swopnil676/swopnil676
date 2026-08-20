@@ -258,7 +258,7 @@ To master advanced Python programming and software engineering by building pract
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/swopnil676">
   <img
@@ -278,7 +278,7 @@ To master advanced Python programming and software engineering by building pract
 
 <br>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/swopnil676">
   <img
