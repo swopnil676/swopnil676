@@ -268,10 +268,14 @@ To master advanced Python programming and software engineering by building pract
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=swopnil676&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Contribution Graph
 
----
-[![](https://komarev.com/ghpvc/?username=swopnil676&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/swopnil676"
+    alt="GitHub Contribution Graph"
+    width="900"
+  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
