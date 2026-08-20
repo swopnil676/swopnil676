@@ -293,37 +293,30 @@ To master advanced Python programming and software engineering by building pract
 ---
 ## 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
 
-<a href="https://github.com/swopnil676">
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api?username=swopnil676&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E3B341&icon_color=F0C75E&text_color=C9D1D9"
-  />
-</a>
+  <a href="https://github.com/swopnil676">
+    <img
+      height="180"
+      src="https://github-readme-stats.shion.dev/api?username=swopnil676&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E3B341&icon_color=F0C75E&text_color=C9D1D9"
+    />
+  </a>
 
-<a href="https://github.com/swopnil676">
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=swopnil676&hide_border=true&background=0D1117&border=3D3420&stroke=3D3420&ring=E3B341&fire=F0C75E&currStreakNum=F0C75E&sideNums=E3B341&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
-  />
-</a>
+  <a href="https://github.com/swopnil676">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com/?user=swopnil676&hide_border=true&background=0D1117&border=3D3420&stroke=3D3420&ring=E3B341&fire=F0C75E&currStreakNum=F0C75E&sideNums=E3B341&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
+    />
+  </a>
 
-</div>
-
-<br>
-
-<div align="left">
-
-<a href="https://github.com/swopnil676">
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=swopnil676&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9"
-  />
-</a>
+  <a href="https://github.com/swopnil676">
+    <img
+      height="180"
+      src="https://github-readme-stats.shion.dev/api/top-langs/?username=swopnil676&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9"
+    />
+  </a>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
