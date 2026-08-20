@@ -256,10 +256,30 @@ To master advanced Python programming and software engineering by building pract
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swopnil676&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=swopnil676&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swopnil676&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=swopnil676&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=swopnil676&theme=github-dark-blue&hide_border=true"
+    height="180"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=swopnil676&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"
+    height="180"
+  />
+
+</div>
 
 ---
 
