@@ -184,18 +184,6 @@ A collection of Data Structures & Algorithms solutions in C++, covering LeetCode
 
 > 💡 **Learn → Practice → Solve → Improve**
 
-### 📈 Learning Progress
-
-**Arrays & Strings** ██████████ 100%  
-**Searching & Sorting** ██████████ 100%  
-**Hashing** █████████░ 90%  
-**Bit Manipulation** █████████░ 90%  
-**Linked Lists** ███████░░░ 70%  
-**Stacks & Queues** ██████░░░░ 60%  
-**Trees** ████░░░░░░ 40%  
-**Graphs** ██░░░░░░░░ 20%  
-**Dynamic Programming** ██░░░░░░░░ 20%
-
 <br>
 
 <a href="https://github.com/swopnil676/Data-Structures-and-Algorithms-in-CPP">
