@@ -171,24 +171,30 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 ## 💻 DSA in C++
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 💻 Data Structures & Algorithms
+
 A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems, coding challenges, and core algorithmic concepts.
 
 **C++ • STL • Algorithms**
 
-### 📈 Progress
-
-- ✅ Arrays & Strings
-- ✅ Searching & Sorting
-- ✅ Hashing
-- ✅ Bit Manipulation
-- 🔄 Linked Lists
-- 🔄 Stacks & Queues
-- 🔄 Recursion & Backtracking
-- 🔄 Trees & Binary Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
-
 > 💡 **Learn → Practice → Solve → Improve**
+
+### 📈 Learning Progress
+
+**Arrays & Strings** ██████████ 100%  
+**Searching & Sorting** ██████████ 100%  
+**Hashing** █████████░ 90%  
+**Bit Manipulation** █████████░ 90%  
+**Linked Lists** ███████░░░ 70%  
+**Stacks & Queues** ██████░░░░ 60%  
+**Trees** ████░░░░░░ 40%  
+**Graphs** ██░░░░░░░░ 20%  
+**Dynamic Programming** ██░░░░░░░░ 20%
 
 <br>
 
@@ -196,9 +202,19 @@ A collection of Data Structures & Algorithms solutions in C++, covering LeetCode
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
 # 🤖 Machine Learning Projects
+
+<table>
+<tr>
+
+<td width="50%" align="center">
 
 ## 😊 Sentiment Analysis CLI
 
@@ -206,19 +222,16 @@ A Python-based CLI application for analyzing text sentiment using NLTK's VADER w
 
 **Python • NLTK • VADER • JSON • OOP**
 
-### ✨ Features
-
-- 📝 Text sentiment analysis
-- 😊 Positive / Neutral / Negative classification
-- 📊 Sentiment scoring using VADER
-- 💾 Persistent JSON history
-- 🖥️ CLI-based interface
-
 <br>
 
 <a href="https://github.com/swopnil676/AI-POWERED-SENTIMENT-ANALYSIS-TOOL">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
