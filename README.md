@@ -176,20 +176,17 @@ A Python-based system for managing cars, customers, rentals, returns, and vehicl
 
 ### 💻 DSA in C++
 
-A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems, coding challenges, and core algorithmic concepts.
+A collection of Data Structures & Algorithms solutions in C++, covering LeetCode problems and core algorithmic concepts.
 
 **C++ • STL • Algorithms**
 
 <br>
 
-### 📈 Progress
+📈 **Progress**
 
-`Arrays` ██████████ 100%  
-`Sorting` ██████████ 100%  
-`Hashing` █████████░ 90%  
-`Bit Manipulation` █████████░ 90%  
-`Linked List` ███████░░░ 70%  
-`Trees` ████░░░░░░ 40%
+`Arrays` ✅ • `Sorting` ✅ • `Hashing` ✅  
+`Bit Manipulation` ✅ • `Linked List` 🔄  
+`Stacks & Queues` 🔄 • `Trees` 🔄
 
 <br>
 
