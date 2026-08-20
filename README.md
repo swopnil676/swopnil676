@@ -291,6 +291,7 @@ To master advanced Python programming and software engineering by building pract
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -335,6 +336,7 @@ To master advanced Python programming and software engineering by building pract
 </table>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
