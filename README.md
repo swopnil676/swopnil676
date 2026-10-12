@@ -16,10 +16,10 @@
 # 💫 About Me
 
 * 🎓 **Student at:** Jalpaiguri Government Engineering College (JGEC)
-* 💻 **Aspiring Forward Deployed Engineer** | Cybersecurity Enthusiast
+* 💻 **Aspiring Forward Deployed Engineer** | System design & Distributed Systems Enthusiast
 * 🔭 **Currently Working On:** Personal projects, coding challenges, and improving problem-solving skills through DSA
 * 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Artificial Intelligence & Machine Learning (AI/ML), Gen AI and Agentic AI.
-* 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
+* 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, System Design and Distributed Systems.
 * 💬 **Ask Me About:** C++, Python, DSA, Linux, Git & GitHub, and Cybersecurity Basics
 * ⚡ **Fun Fact:** I enjoy solving challenging problems and exploring how technology and security work behind the scenes.
 
