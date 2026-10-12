@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swopnil Biswas</h1>
-<h3 align="center"> 💻 Aspiring Software Engineer | 🤖 Building Skills in AI/ML | 🧩 DSA & Problem Solving | 🇮🇳 </h3>
+<h3 align="center"> 💻 Aspiring Forward Deployed Engineer | 🤖 Building Skills in AI/ML | 🧩 DSA & Problem Solving | 🇮🇳 </h3>
 
 <p align="center">
-  I'm a passionate Electronics and Communication Engineering student at
+  I'm a passionate Information Technology student at
   <b>Jalpaiguri Government Engineering College (JGEC)</b> with a strong interest in
   software development, Data Structures & Algorithms, and cybersecurity.
 </p>
@@ -16,7 +16,7 @@
 # 💫 About Me
 
 * 🎓 **Student at:** Jalpaiguri Government Engineering College (JGEC)
-* 💻 **Aspiring Software Engineer** | Cybersecurity Enthusiast
+* 💻 **Aspiring Forward Deployed Engineer** | Cybersecurity Enthusiast
 * 🔭 **Currently Working On:** Personal projects, coding challenges, and improving problem-solving skills through DSA
 * 🌱 **Currently Learning:** Data Structures & Algorithms in C++, Python, Artificial Intelligence & Machine Learning (AI/ML), Gen AI and Agentic AI.
 * 👯 **Looking to Collaborate On:** Open Source Projects, Software Development Projects, and Cybersecurity Initiatives
